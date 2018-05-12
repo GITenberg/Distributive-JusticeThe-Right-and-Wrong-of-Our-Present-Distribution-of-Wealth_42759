@@ -1,0 +1,31 @@
+_repo: Distributive-JusticeThe-Right-and-Wrong-of-Our-Present-Distribution-of-Wealth_42759
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42759-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Ryan, John A. (John Augustine)
+    alias: Ryan, John Augustine
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '41858'
+    url: http://www.gutenberg.org/2009/agents/41858
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Ryan
+description: ''
+gutenberg_issued: '2013-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42759'
+  lccn: '16022456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Income distribution -- Moral and ethical aspects'
+- !lcsh 'Wealth -- Religious aspects'
+- !lcsh 'Economic history'
+- !lcc 'HB'
+title: 'Distributive Justice: The Right and Wrong of Our Present Distribution of Wealth'
+url: http://www.gutenberg.org/ebooks/42759
